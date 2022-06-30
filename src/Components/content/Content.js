@@ -1,5 +1,7 @@
 import "./content.css";
 import { useState } from "react";
+import React from 'react'
+
 
 const Content = ({ questions }) => {
     const [questionIndex, setQuestionIndex] = useState(0);

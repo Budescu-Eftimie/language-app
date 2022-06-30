@@ -1,6 +1,7 @@
 import Header from "./Components/header/Header.js";
 import Content from "./Components/content/Content";
 import Footer from "./Components/footer/Footeer";
+import React from "react";
 
 function App() {
     const questions = [
@@ -36,12 +37,10 @@ function App() {
         },
     ];
 
-    
-
     return (
         <div className="App">
             <Header />
-            <Content questions={questions}/>
+            <Content questions={questions} />
             <Footer />
         </div>
     );
