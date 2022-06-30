@@ -1,7 +1,6 @@
 import "./content.css";
 import { useState } from "react";
-import React from 'react'
-
+import React from "react";
 
 const Content = ({ questions }) => {
     const [questionIndex, setQuestionIndex] = useState(0);
@@ -10,7 +9,7 @@ const Content = ({ questions }) => {
     return (
         <main>
             <fieldset>
-                <legend>{activeQuestion.question.romana}</legend>
+                <legend>{activeQuestion.question.english}</legend>
 
                 <div id="group_label_1">
                     <label htmlFor={activeQuestion.id}>
