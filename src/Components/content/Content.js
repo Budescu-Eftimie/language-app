@@ -9,6 +9,11 @@ const Content = ({ questions }) => {
     return (
         <main>
             <fieldset>
+                <p>
+                    Do you know which criteria should be met for Google Assistant
+                    to be able to read a page? Is it related to the structure of
+                    the page, the domain name or something else?
+                </p>
                 <legend>{activeQuestion.question.english}</legend>
 
                 <div id="group_label_1">
