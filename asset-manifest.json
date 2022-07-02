@@ -1,7 +1,7 @@
 {
-  "main.css": "/language-app/static/css/main.1c0725e8.chunk.css",
-  "main.js": "/language-app/static/js/main.135fda50.chunk.js",
-  "main.js.map": "/language-app/static/js/main.135fda50.chunk.js.map",
+  "main.css": "/language-app/static/css/main.130cc0cd.chunk.css",
+  "main.js": "/language-app/static/js/main.4727d034.chunk.js",
+  "main.js.map": "/language-app/static/js/main.4727d034.chunk.js.map",
   "runtime~main.js": "/language-app/static/js/runtime~main.52051548.js",
   "runtime~main.js.map": "/language-app/static/js/runtime~main.52051548.js.map",
   "static/js/2.2ccfc8bd.chunk.js": "/language-app/static/js/2.2ccfc8bd.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.12bf67e3.chunk.js": "/language-app/static/js/3.12bf67e3.chunk.js",
   "static/js/3.12bf67e3.chunk.js.map": "/language-app/static/js/3.12bf67e3.chunk.js.map",
   "index.html": "/language-app/index.html",
-  "precache-manifest.c191d9892f3f5cefb61c3cfc92d1e054.js": "/language-app/precache-manifest.c191d9892f3f5cefb61c3cfc92d1e054.js",
+  "precache-manifest.d5369e70c94a962e8e9e460e07081d3b.js": "/language-app/precache-manifest.d5369e70c94a962e8e9e460e07081d3b.js",
   "service-worker.js": "/language-app/service-worker.js",
-  "static/css/main.1c0725e8.chunk.css.map": "/language-app/static/css/main.1c0725e8.chunk.css.map"
+  "static/css/main.130cc0cd.chunk.css.map": "/language-app/static/css/main.130cc0cd.chunk.css.map"
 }
